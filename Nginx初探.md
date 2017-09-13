@@ -1,3 +1,5 @@
+http://blog.csdn.net/xlgen157387/article/details/49781487
+
 一、 概念
 
 Nginx——Ngine X，是一款自由的、开源的、高性能HTTP服务器和反向代理服务器；也是一个IMAP、POP3、SMTP代理服务器；也就是说Nginx本身就可以托管网站（类似于Tomcat一样），进行Http服务处理，也可以作为反向代理服务器使用。
